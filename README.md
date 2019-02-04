@@ -1,2 +1,2 @@
 # finding_donors_udacity
-Projeto 1 - Udacity - Machine Learning Engineer
+Projeto 1 - Udacity - Programa Nanodegree - Machine Learning Engineer
